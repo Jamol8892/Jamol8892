@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jamol
+- 👀 I’m interested in programming :)
+- 🌱 I’m currently learning C++
+- 📫 How to reach me https://t.me.jamolshyper/
