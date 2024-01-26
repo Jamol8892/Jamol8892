@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jamol
-- 🌱 I’m currently learning OOP concepts of Java, and Algorithms and Data structures on C++
+- 🌱 I’m currently learning OOP concepts on Java, and Algorithms and Data structures on C++
 - 📫 How to reach me https://jamolshyper.t.me/
